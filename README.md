@@ -1,8 +1,8 @@
-# EntCord
+# EntCord/Dblock
 
 ## EntCord란
 
-[**엔트리**](https://playentry.org/) 에서 [**Discord**](https://discord.com/) Bot 을 작동시킬 수 있는 기능입니다.
+디토님이 만든 [**엔트리**](https://playentry.org/) 에서 [**Discord**](https://discord.com/) Bot 을 작동시킬 수 있는 기능입니다.
 
 예제 작품: [들어가기](http://naver.me/xmfjxsYJ)
 
@@ -23,3 +23,5 @@ import('https://entcord.ditto7890.ga/block.js')
 ## 결과
 
 ![Result](./img/result.png)
+
+원본:디토님
